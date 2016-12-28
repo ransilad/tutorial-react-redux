@@ -1,3 +1,15 @@
 node_modules/
 npm-debug.log
 bundle.js
+
+# IDE support files
+/.classpath
+/.idea
+/.launch
+/.project
+/.settings
+/*.launch
+/*.tmproj
+/ivy*
+/eclipse
+*.iml
